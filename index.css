@@ -1,0 +1,99 @@
+#navigation
+{
+	display: flex;
+	justify-content: flex-end;
+	
+	margin: 10px;
+}
+
+
+body a
+{
+	text-decoration: none;
+	font-family: "Trebuchet MS", "Verdana";
+	font-size: 14px;
+}
+
+body
+{
+	font-family: "Trebuchet MS", "Verdana";
+	font-size: 14px;
+	
+}
+
+.FondCo
+{
+	border: 1px;
+	background-color: #337AFF;
+	border-radius: 2px;
+	color: white;
+}
+
+#Barre
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.barreGOOGLE
+{
+	height: 44px;
+	width: 590px;
+	border-radius: 80px;
+	border: 0.5px silver solid;
+}
+
+.Milieu
+{
+	display : flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Boutons
+{
+	display: flex;
+	justify-content: row;
+	margin: 30px;
+
+}
+
+#Rech
+{
+	font-size: 15px;
+	border: solid #DCDCDC 1px;
+	width: 150px;
+	height: 40px;
+	background-color: #F0F0F0;
+	border-radius: 4px;
+}
+
+#Chance
+{
+	font-size: 15px;
+	border: solid #DCDCDC 1px;
+	width: 150px;
+	height: 40px;
+	background-color: #F0F0F0;
+	border-radius: 4px;
+}
+
+footer
+{
+	background-color: #F0F0F0;
+	margin: -8px;
+}
+
+span.cadre
+{
+
+	border: 1px black solid;
+	padding: 5px;
+}
+
+
+
+
